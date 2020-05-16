@@ -1,0 +1,16 @@
+*.iml
+.idea
+.gradle
+build
+
+/bin/
+/target/
+/.apt_generated/
+.classpath
+.factorypath
+.project
+.settings
+aspectj.launch
+*.ipr
+*.iws
+*.log
